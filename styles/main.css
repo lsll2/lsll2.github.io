@@ -759,8 +759,15 @@ a {
   margin: 4px 8px;
 }
 
+      .sidebar {
+        width: 375px;
+      }
+      .main-container {
+        margin-left: 375px;
+      }
+    
       .sidebar .top-container .site-nav {
-        color: #74759b;
+        color: #495057;
       }
     
       body {
