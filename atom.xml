@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsll2.github.io</id>
     <title>YUKI.N.α 的博客</title>
-    <updated>2022-09-01T04:10:35.174Z</updated>
+    <updated>2022-09-01T07:14:45.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsll2.github.io"/>
     <link rel="self" href="https://lsll2.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://lsll2.github.io/images/avatar.png</logo>
     <icon>https://lsll2.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, YUKI.N.α 的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[【游戏制作日志】免费ARPG游戏游戏《剑之荒原》制作中]]></title>
+        <id>https://lsll2.github.io/post/you-xi-zhi-zuo-ri-zhi-mian-fei-zhan-dou-you-xi-you-xi-lesslessjian-zhi-huang-yuan-greatergreater-zhi-zuo-zhong/</id>
+        <link href="https://lsll2.github.io/post/you-xi-zhi-zuo-ri-zhi-mian-fei-zhan-dou-you-xi-you-xi-lesslessjian-zhi-huang-yuan-greatergreater-zhi-zuo-zhong/">
+        </link>
+        <updated>2022-09-01T04:45:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一个非商用的即时战斗游戏，之后会开通赞助放出试玩版，但是正式版是免费的。<br>
+由于我目前的能力无法自行制作全部素材。<br>
+因此借用了由The Mighty Palm制作的素材The Mighty Pack。<br>
+BGM将会使用音乐之卵的素材。游戏人物设计、剧情和对话、玩法都由本人设计。<br>
+素材原作者声明：You literally cannot steal it, I'm giving it to you. Claim you made it. Impress your dad with it so he'll love you. Idc.<br>
+另外，为了社区和谐，希望不要私下传播和自行声称自制素材，这对大家都好。<br>
+我希望不法之徒能明白，这是真真切切有法律追究的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个非商用的即时战斗游戏，之后会开通赞助放出试玩版，但是正式版是免费的。<br>
+由于我目前的能力无法自行制作全部素材。<br>
+因此借用了由The Mighty Palm制作的素材The Mighty Pack。<br>
+BGM将会使用音乐之卵的素材。游戏人物设计、剧情和对话、玩法都由本人设计。<br>
+素材原作者声明：You literally cannot steal it, I'm giving it to you. Claim you made it. Impress your dad with it so he'll love you. Idc.<br>
+另外，为了社区和谐，希望不要私下传播和自行声称自制素材，这对大家都好。<br>
+我希望不法之徒能明白，这是真真切切有法律追究的。</p>
+<!-- more -->
+<p>目前进度：新手村、初始海滩、野外、任务地点森林、第一关boos房入口。<br>
+宝箱、光影、草丛寻宝之后会加入，也会进行一些调色。<br>
+剧情方面，第一关的剧情很简单，大概就是主人公跟随导师历练。<br>
+<img src="https://lsll2.github.io/post-images/1662008251794.png" alt="" loading="lazy"><br>
+<img src="https://lsll2.github.io/post-images/1662008280152.png" alt="" loading="lazy"><br>
+<img src="https://lsll2.github.io/post-images/1662008286393.png" alt="" loading="lazy"><br>
+<img src="https://lsll2.github.io/post-images/1662010062098.png" alt="" loading="lazy"><br>
+<img src="https://lsll2.github.io/post-images/1662010077021.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【小说】飞轮城之蚁②]]></title>
         <id>https://lsll2.github.io/post/xiao-shuo-fei-lun-cheng-zhi-yi/</id>
