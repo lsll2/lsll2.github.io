@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lsll2.github.io</id>
     <title>YUKI.N.α 的博客</title>
-    <updated>2022-09-03T08:35:18.644Z</updated>
+    <updated>2022-09-15T04:01:40.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lsll2.github.io"/>
     <link rel="self" href="https://lsll2.github.io/atom.xml"/>
@@ -16,8 +16,12 @@
         <link href="https://lsll2.github.io/post/zhuan-zai-zhe-xue-yu-ke-xue-de-guan-xi-bing-bu-mao-dun/">
         </link>
         <updated>2022-09-03T08:31:37.000Z</updated>
+        <summary type="html"><![CDATA[<p>转自中国科学报</p>
+<p>迄今为止的现代化进程表明，产业革命、技术革命从根本上来源于科学革命。要有独有的、别人卡不了脖子的关键技术，需要有独创的、敢为人先的科学思想和科学理论。现代科学技术在19世纪末传入中国后，我们经历了学习阶段、跟踪阶段，现在有条件也必须要开始进入独创阶段。科技创新要跨进新阶段、迈上新台阶、步入新境界，需要在科学家的头脑中源源不断地涌现新的科学概念、科学思想、科学方法。而如何才能形成有利于创造性思维的氛围、营造有助于独创性观念产生的环境、夯实突破性成就生长的基础？我们需要进一步深入反思科学技术的历史发展规律，因而需要进一步深刻认识科学与哲学的关系。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>转自中国科学报</p>
 <p>迄今为止的现代化进程表明，产业革命、技术革命从根本上来源于科学革命。要有独有的、别人卡不了脖子的关键技术，需要有独创的、敢为人先的科学思想和科学理论。现代科学技术在19世纪末传入中国后，我们经历了学习阶段、跟踪阶段，现在有条件也必须要开始进入独创阶段。科技创新要跨进新阶段、迈上新台阶、步入新境界，需要在科学家的头脑中源源不断地涌现新的科学概念、科学思想、科学方法。而如何才能形成有利于创造性思维的氛围、营造有助于独创性观念产生的环境、夯实突破性成就生长的基础？我们需要进一步深入反思科学技术的历史发展规律，因而需要进一步深刻认识科学与哲学的关系。</p>
+<!-- more -->
 <p>从历史的维度来看，哲学是科学之源。现代科学的前身就是古希腊的自然哲学，之后相当长时间内，科学家都把自己的工作看作是自然哲学的一部分。牛顿的伟大著作命名为《自然哲学之数学原理》；拉马克的《动物学哲学》包含了进化思想的萌芽；道尔顿在其《化学哲学新体系》中奠定了现代化学的基础。古希腊哲学家对浩渺星空的好奇和惊异、对宇宙本质问题的痴迷和热情、对思想穷根究底的辩驳和拷问、对逻辑与理性的推崇和赞赏，为现代科学传统注入了最深层的精神内核。</p>
 <p>从科学发展的动力来看，哲学往往是革命性科学思想的助产士。科学研究不只是观察、实验和计算，而且还需要一整套概念和思想的支撑。已有的科学概念和思想，既是一段时期内科学进步的探照灯，又构成了对这一时期科学家的约束和限制。按照许多科学史家的看法，科学的发展是常规科学和科学革命交替的过程。在常规科学阶段，科学家主要是在既有的范式下解决各种问题，他们的工作似乎与哲学没有太大的关系。但在科学革命阶段，科学共同体需要建立新的范式，需要用新的概念之网来重新整理科学事实。而科学概念和思想的变革，有赖于科学家完成思维上的自我超越，这时候必然会涉及到哲学上的争论，必然会在哲学思想中寻求灵感。以牛顿力学的建立为代表的第一次科学革命，以相对论、量子力学为标志的第二次科学革命，都有新的哲学思想的催化作用。</p>
 <p>从人类的知识系统来说，从人类探索自然真理的过程来说，科学和哲学是紧密联系在一起的。如果把科学知识比作一个圆盘，圆盘的边缘是观察实验获得的经验知识，从边缘往里是科学中的理论知识，圆盘的中央则是有关自然的基本哲学观点。任何科学理论的内核，都带有某些哲学预设。科学的发展往往会带来哲学观念上的变化，而哲学思想的变革也会为科学的洞见提供广阔的思想空间。可以这样来说，缺乏哲学的科学是盲目的，而缺乏科学的哲学是空洞的。正是科学和哲学的相互激荡，使得人类的思想一次一次突破和超越自我，造就了人类文明的辉煌。</p>
@@ -153,101 +157,6 @@ BGM将会使用音乐之卵的素材。游戏人物设计、剧情和对话、�
 <p>研究人员在论文中写道：“在没有任何基础物理知识的情况下，我们的算法可以发现观察到的动力学的内在维度并识别候选状态变量集。”</p>
 <p>该研究已发表在《自然·计算科学》上。</p>
 <p>https://www.sciencealert.com/ai-has-discovered-alternate-physics-on-its-own</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【资源分享】亚总搞女同？亚丝娜视角下的SAO是什么样的？]]></title>
-        <id>https://lsll2.github.io/post/zi-yuan-fen-xiang-ya-zong-gao-nu-tong-ya-si-nuo-shi-jiao-xia-de-sao-shi-shi-me-yang-de/</id>
-        <link href="https://lsll2.github.io/post/zi-yuan-fen-xiang-ya-zong-gao-nu-tong-ya-si-nuo-shi-jiao-xia-de-sao-shi-shi-me-yang-de/">
-        </link>
-        <updated>2022-09-01T01:03:43.000Z</updated>
-        <summary type="html"><![CDATA[<p>《刀剑神域 进击篇：无星之夜的咏叹调》<br>
-补完刀剑第一卷的刀剑进击篇，没想到亚总你个浓眉大眼的也搞女同😂</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>《刀剑神域 进击篇：无星之夜的咏叹调》<br>
-补完刀剑第一卷的刀剑进击篇，没想到亚总你个浓眉大眼的也搞女同😂</p>
-<!-- more -->
-<p>https://www.aliyundrive.com/s/uqitwzupY4T<br>
-提取码：7s9n</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【今晚最新咨询】初音未来今日生日，魔导国黑暗时代系列占据排行榜首]]></title>
-        <id>https://lsll2.github.io/post/jin-wan-zui-xin-zi-xun/</id>
-        <link href="https://lsll2.github.io/post/jin-wan-zui-xin-zi-xun/">
-        </link>
-        <updated>2022-08-31T10:54:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>和猫住的成都站与重庆站不得不暂停猫咪接收流浪猫。<br>
-原因是重庆站爆发猫瘟传腹，目前推测，原因是超高温天气的连锁反应。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>和猫住的成都站与重庆站不得不暂停猫咪接收流浪猫。<br>
-原因是重庆站爆发猫瘟传腹，目前推测，原因是超高温天气的连锁反应。</p>
-<!-- more -->
-<p>https://www.bilibili.com/read/cv18270093<br>
-<img src="https://lsll2.github.io/post-images/1661943434664.png" alt="" loading="lazy"></p>
-<p>ricogarden为初音未来庆祝生日的专栏暂时登上了榜单第一名。<br>
-打败了萌娘百科感叹暑假结束的专栏。<br>
-https://www.bilibili.com/read/cv18317050<br>
-https://www.bilibili.com/read/cv18363553<br>
-<img src="https://lsll2.github.io/post-images/1661943712191.png" alt="" loading="lazy"><br>
-<img src="https://lsll2.github.io/post-images/1661993677861.png" alt="" loading="lazy"></p>
-<p>howMandy青发表了1.19的附魔攻略。截止目前获得了7.5万阅读。<br>
-感谢howMandy青，这对mc玩家很有帮助。<br>
-https://www.bilibili.com/read/cv18011971<br>
-<img src="https://lsll2.github.io/post-images/1661944168187.png" alt="" loading="lazy"></p>
-<p>南雁minami的魔导国黑暗时代系列，是目前b站最火热的同人小说。<br>
-https://www.bilibili.com/read/readlist/rl399220<br>
-均匀的占据了整个排行榜。<br>
-<img src="https://lsll2.github.io/post-images/1661944780516.png" alt="" loading="lazy"></p>
-<p>Jordan Peele的科幻电影《不》是豆瓣目前最火热的电影。<br>
-而DC的《超级宠物联盟》仅仅只能在排行榜第八位。</p>
-<p><img src="https://lsll2.github.io/post-images/1661944847309.jpg" alt="" loading="lazy"><br>
-<img src="https://lsll2.github.io/post-images/1661944990113.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【本周动漫快报】黑魂小说化，色情漫画老师完结]]></title>
-        <id>https://lsll2.github.io/post/ben-zhou-dong-man-kuai-bao/</id>
-        <link href="https://lsll2.github.io/post/ben-zhou-dong-man-kuai-bao/">
-        </link>
-        <updated>2022-08-31T09:23:17.000Z</updated>
-        <summary type="html"><![CDATA[<p>本周资讯摘自游侠、动漫之家，以及各大社交平台  有删改。<br>
-因为还没有正式开始，所以信息来源都很简单，之后会去挖新消息的。<br>
-视频版之后也会做的。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>本周资讯摘自游侠、动漫之家，以及各大社交平台  有删改。<br>
-因为还没有正式开始，所以信息来源都很简单，之后会去挖新消息的。<br>
-视频版之后也会做的。</p>
-<!-- more -->
-<p>✨游戏《天穗之咲稻姬》推出官方后传小说<br>
-《天穗之咲稻姬 心环种稻日志》将以游戏中的主人公咲稻姬的好友心环姬为主角，讲述游戏本篇之后，心环姬也来找咲稻姬一起种田的故事。<br>
-<img src="https://lsll2.github.io/post-images/1661938519570.jpg" alt="" loading="lazy"></p>
-<p>✨KADOKAWA宣布了游戏《黑魂》小说化的消息。小说将以《黑魂 辩明的面具剧》为标题，于10月25日发售。<br>
-《黑魂》讲述了身为不死人的主人公，在世界上冒险的故事。本作小说由《星球大战》系列小说家Michael A.Stackpole执笔，故事为原创内容。<br>
-发售的渠道我之后去查一下，待会补充。<br>
-<img src="https://lsll2.github.io/post-images/1661938590920.jpg" alt="" loading="lazy"></p>
-<p>✨转眼间9年过去了，《色情漫画老师》的最终卷于八月十日正式发售。和泉兄妹的恋情终于修成正果，迎来了一个圆满的结局。总之祝贺完结。伴随小说的完结，日本网站秋叶原Blog也对伏见司进行了采访。采访中，伏见提到自己完成最终卷后腰酸背痛，但考虑下部作品要写什么很开心，很久没写新故事了非常兴奋。<br>
-而关于网上的引退传闻，伏见表示目前身体还很健康。但考虑到当下的世界形势，死亡或是因事故疾病导致没法写东西的可能性非常高，所以之后会抱着只剩1年生命的心态努力工作，全力写出最有趣的恋爱喜剧。<br>
-（可以拿来当新梗🌿🌿）<br>
-<img src="https://lsll2.github.io/post-images/1661938863344.jpg" alt="" loading="lazy"></p>
-<p>✨动画《名侦探柯南》的外传动画《名侦探柯南 犯人犯泽先生》宣布了将于10月3日播出的消息。本作的PV也一并公开。《名侦探柯南 犯人犯泽先生》是2017年5月开始连载的《名侦探柯南》的外传作品。本作以米花町为舞台，讲述了要当犯人的犯泽先生的日常故事。这次的动画将由TMS、第1工作室负责制作，大地丙太郎担任监督。<br>
-<img src="https://lsll2.github.io/post-images/1661940007319.jpg" alt="" loading="lazy"></p>
-<p>✨在英国曼彻斯特大学读映像人类学的博士生Kari Andersson研究日本少年爱文化作品的论文在今年4月于学术杂志《Qualitative Research》上发表。<br>
-由于质疑声过大，目前此篇论文已经被撤回。另外曼彻斯特大学对Kari Andersson下达了停学处分。当地警察称目前正在调查中，结果将于日后发表。（你看他笑的多开心）<br>
-<img src="https://lsll2.github.io/post-images/1661940120796.jpg" alt="" loading="lazy"></p>
-<p>✨圆谷株式会社官方今日宣布，《奥特赛文》55周年纪念企划正式启动。官方公布了该项目的主视觉图，同时上线了活动官方网站。<br>
-https://seven55th.m-78.jp/<br>
-<img src="https://lsll2.github.io/post-images/1661940274204.jpg" alt="" loading="lazy"></p>
-<p>✨受华纳消减成本的策略 《蝙蝠侠：披风战士》动画电影停止制作。<br>
-据外媒“DEADLINE”报道称，由布鲁斯·蒂姆、J·J·艾布拉姆斯以及马特·里夫斯制作的动画电影《蝙蝠侠：披风战士》将不会在HBO Max上播出。<br>
-<img src="https://lsll2.github.io/post-images/1661940454263.png" alt="" loading="lazy"></p>
-<p>✨近日，改编自《一拳超人》原作者ONE作品的同名动画《灵能百分百》公布了第三季完整版先行OP，将于10月5日开播，同时官方在发布会上确认该季全程手绘制作，不含任何CG动画。<br>
-<img src="https://lsll2.github.io/post-images/1661940495827.png" alt="" loading="lazy"></p>
-<p>✨今日（8月29日），东映官方发布了《假面骑士黑日》的第二弹特报PV，本剧将于10月28日上线亚马逊流媒体。《假面骑士黑日》为假面骑士系列50周年所推出的《假面骑士Black》的重启之作，该剧将于2022年秋季开播。<br>
-<img src="https://lsll2.github.io/post-images/1661940796143.png" alt="" loading="lazy"></p>
-<p>✨8月31日消息，据天眼查App显示，近日，阿里巴巴（中国）有限公司申请的“多主播虚拟直播方法以及装置”专利公布。专利摘要显示，该方法应用于虚拟直播控制系统，包括：获取直播间的直播模式设置参数以利用多个虚拟人物在直播间进行直播；基于直播模式设置参数确定具有第一播报风格的第一主播及具有第二播报风格的第二主播；<br>
-快进到Vivy。<br>
-<img src="https://lsll2.github.io/post-images/1661941778106.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
